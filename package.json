@@ -1,0 +1,23 @@
+{
+  "name": "midi-playground",
+  "version": "1.0.0",
+  "description": "my midi playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcspace/midi-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcspace/midi-playground/issues"
+  },
+  "homepage": "https://github.com/williamcspace/midi-playground#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "midi": "^0.9.4"
+  }
+}
